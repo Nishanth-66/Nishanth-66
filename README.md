@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Nishanth!
 
-<!--
-**Nishanth-66/Nishanth-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Gamana! 👋
 
-Here are some ideas to get you started:
+🎯 Enthusiastic developer exploring Web Development, java, Python and React.  
+🚀 Interested in Full-Stack Development & Cloud Technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 About Me
+- 🔭 Currently working on: Full-stack apps with React  
+- 🌱 Learning: REST APIs, DevOps (Docker, AWS)  
+- 👯 Open to collaborate on: Open-source & web apps  
+- 💬 Ask me about: java, Python, React  
+- ⚡ Fun fact: I love turning complex problems into simple code  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: java, Python, JavaScript  
+- 🌐 Frontend: React, HTML, CSS  
+- ⚙️ Backend: Django, REST APIs, java
+- 🛢️ Database: SQL  
+- ☁️ Tools: Docker, AWS  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/nishanth-bg-3a680427b]
+
