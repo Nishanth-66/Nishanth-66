@@ -18,7 +18,7 @@
 - 💻 Languages: java, Python, JavaScript  
 - 🌐 Frontend: React, HTML, CSS  
 - ⚙️ Backend: Django, REST APIs, java
-- 🛢️ Database: SQL, MangoDB
+- 🛢️ Database: SQL, MongoDB
 - ☁️ Tools: Docker, AWS  
 
 ---
