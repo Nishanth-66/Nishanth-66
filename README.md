@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Nishanth!
 
-# Hi there, I'm Gamana! 👋
-
 🎯 Enthusiastic developer exploring Web Development, java, Python and React.  
 🚀 Interested in Full-Stack Development & Cloud Technologies.  
 
