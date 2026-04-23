@@ -1,28 +1,54 @@
-## Hi there 👋, I'm Nishanth!
+# 👋 Hi there, I'm Nishanth!
 
-🎯 Enthusiastic developer exploring Web Development, java, Python and React.  
-🚀 Interested in Full-Stack Development & Cloud Technologies.  
+Enthusiastic developer exploring Web Development, Java, Python, and React.  
+Passionate about building scalable full-stack applications and learning cloud tech.
 
 ---
 
-## 📊 About Me
-- 🔭 Currently working on: Full-stack apps with React  
-- 🌱 Learning: REST APIs, DevOps (Docker, AWS)  
-- 👯 Open to collaborate on: Open-source & web apps  
-- 💬 Ask me about: java, Python, React  
-- ⚡ Fun fact: I love turning complex problems into simple code  
+## 💡 About Me
+
+- 🔭 Currently working on: Full-stack apps with **React**
+- 🌱 Learning: REST APIs, DevOps (**Docker**, **AWS**)
+- 🤝 Open to collaborate on: Open-source & web applications
+- 💬 Ask me about: **Java**, **Python**, **React**
+- ⚡ Fun fact: I love turning complex problems into simple code
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: java, Python, JavaScript  
-- 🌐 Frontend: React, HTML, CSS  
-- ⚙️ Backend: Django, REST APIs, java
-- 🛢️ Database: SQL, MongoDB
-- ☁️ Tools: Docker, AWS  
+
+**Languages & Frameworks:**
+
+| Category    | Tech Stack |
+|-------------|------------|
+| Languages    | Java, Python, JavaScript |
+| Frontend     | React, HTML, CSS |
+| Backend      | Django, REST APIs, Java |
+| Databases    | SQL, MongoDB |
+| Tools        | Docker, AWS |
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [www.linkedin.com/in/nishanth-bg-3a680427b]
+## 📌 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth-66&show_icons=true&count_private=true&theme=radical)
+
+---
+
+## 🚀 Connect with Me
+
+🔗 LinkedIn: [Visit my LinkedIn](https://www.linkedin.com/in/nishanth-bg-3a680427b)
+
+---
+
+## 🌟 Projects Worth Checking
+
+Here are some public repositories you may find interesting:
+
+- **myFirstHTMLHosting** – Day-1 hosting demo  
+- **firstProject** – Creative & Thematic HTML project  
+- **html-Nishanth** – Another HTML build
+
+*(More projects coming soon!)*
+
+---
