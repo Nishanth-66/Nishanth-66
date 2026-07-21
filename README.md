@@ -8,7 +8,7 @@ Passionate about building scalable full-stack applications and learning cloud te
 ## 💡 About Me
 
 - 🔭 Currently working on: Full-stack apps with **React**
-- 🌱 Learning: REST APIs, DevOps (**Docker**, **AWS**)
+- 🌱 Learning: REST APIs, DevOps (**Docker**)
 - 🤝 Open to collaborate on: Open-source & web applications
 - 💬 Ask me about: **Java**, **Python**, **React**
 - ⚡ Fun fact: I love turning complex problems into simple code
